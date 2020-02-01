@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,52 @@
   to {
     transform: rotate(360deg);
   }
+}
+ */
+.main-wrapper {
+  padding: 1rem;
+}
+
+.title {
+  background-color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+.title-heading {
+  color: red;
+}
+
+.sub-title {
+  padding: 1rem;
+  background-color: bisque;
+  text-align: center;
+  border-radius: 0.3rem;
+}
+
+.sub-title-heading {
+  font-style: italic;
+}
+
+.content {
+  padding-top: 1rem;
+}
+
+.left-content {
+  text-align: center;
+}
+
+.h4 {
+  text-align: justify;
+}
+
+.submit-button {
+  float: right;
+}
+
+.middle-content {
+  /* position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); */
 }
